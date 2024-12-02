@@ -1,0 +1,7 @@
+[package]
+name = "solid-octo-giggle"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fltk = { version = "^1.5", git = "https://github.com/fltk-rs/fltk-rs" }
